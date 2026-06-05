@@ -1,0 +1,17 @@
+{
+  "name": "stackflow-skills",
+  "owner": {
+    "name": "Stackflow Digital",
+    "email": "leonidastsantarliotis@gmail.com"
+  },
+  "metadata": {
+    "description": "Stackflow Digital AIOS skills marketplace (test)"
+  },
+  "plugins": [
+    {
+      "name": "stackflow-demo",
+      "source": "./plugins/stackflow-demo",
+      "description": "Pull meetings from the Fathom API (transcript, summary, action items, share URL)."
+    }
+  ]
+}
